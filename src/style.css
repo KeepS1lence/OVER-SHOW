@@ -1,0 +1,25 @@
+body{
+
+  background-image:url("https://avatars.dzeninfra.ru/get-zen-pub-og/10998171/pub_5f32d8d205113f520285c9e4_64d76ee19b98322642059be7/orig");
+}
+ h1{
+    text-align:center;
+   color:HotPink;
+   
+}
+.opisanie{
+  border:3px solid Orchid;
+}
+.images{
+   display:flex;
+  justify-content:space-around;
+
+}
+.video{
+  display:flex;
+  justify-content:center;
+}
+
+  
+  
+ 
